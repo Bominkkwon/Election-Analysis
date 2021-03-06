@@ -29,4 +29,5 @@ The dataset,[election_results.csv](https://github.com/Bominkkwon/Election-Analys
 
 ## Analysis
 **Election-Audit Results**
-
+[Election-Audit Results](https://raw.githubusercontent.com/Bominkkwon/Election-Analysis/main/analysis/election_results.txt)
+  
