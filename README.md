@@ -14,7 +14,7 @@
 Election Analysis - Module 3 Challenge 
 
 ## Technologies
-[Python](https://www.python.org/downloads/ "Download Python")
+[Python](https://www.python.org/downloads/ "Download Python") 3.7.9.
 
 ## Overview 
 The dataset,[election_results.csv](https://github.com/Bominkkwon/Election-Analysis/tree/main/Resources "Resources/eletion_results.csv"), that is given for this project consists of a number for the ballot ID and a name for the county and candidate, respectively. In this project, our final Python script will need to be able to deliver the following information when the script is run to complete the audit: 
