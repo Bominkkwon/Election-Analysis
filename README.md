@@ -28,6 +28,4 @@ The dataset,[election_results.csv](https://github.com/Bominkkwon/Election-Analys
 * The county with the highest turnout
 
 ## Analysis
-**Election-Audit Results**
 [Election-Audit Results](https://raw.githubusercontent.com/Bominkkwon/Election-Analysis/main/analysis/election_results.txt)
-  
