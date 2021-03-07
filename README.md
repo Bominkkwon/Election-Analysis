@@ -94,7 +94,7 @@ Raymon Anthony Doane received 11,606, which is 3.1% of the total votes that were
 
 Diana DeGette, who received 272,896 votes which is 73.8% of the total votes, won the election.
 
-##Election-Audit Summary
+## Election-Audit Summary
 
 The underlying idea behind “Big Data Analytics” is basically: the best way to predict the future is to study past behaviors. Data analytics helps the election campaign to understand the voters better and to create their game plans. 
 
