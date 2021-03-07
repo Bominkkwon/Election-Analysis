@@ -51,8 +51,10 @@ with open(file_to_load) as election_data:
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 ```Python
     for county_name in county_votes:
+    
     #     # Retrieve the county vote count.
         county_votecount = county_votes[county_name]
+        
     #     # Calculate the percentage of votes for the county.
         county_percentage = float(county_votecount) / float(total_votes) * 100
 ```
